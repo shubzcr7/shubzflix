@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+}
+
+.App {
+  background-color: black;
+}
+.banner_content {
+  color: antiquewhite;
+  align-items: center;
+}
+.banner {
+  max-width: 100%;
+}

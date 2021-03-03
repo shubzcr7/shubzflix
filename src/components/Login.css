@@ -1,0 +1,16 @@
+#main {
+  background-color: #312525;
+  height: 100vh;
+  text-align: center;
+}
+
+#form-control {
+  padding-top: 20vh;
+}
+input {
+  padding: 5px;
+  margin: 5px;
+}
+button {
+  background-color: tomato;
+}

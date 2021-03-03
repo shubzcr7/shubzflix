@@ -1,0 +1,32 @@
+.nav {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  z-index: 1;
+}
+
+.nav_logo {
+  width: 80px;
+  object-fit: contain;
+  padding: 20px;
+}
+
+.name {
+  padding: 20px;
+  color: rgb(113, 122, 122);
+  object-fit: contain;
+}
+
+.btn {
+  margin-right: 10px;
+  height: 30px;
+  margin-top: 15px;
+  background-color: rgb(236, 17, 17);
+  color: whitesmoke;
+  font-size: 16px;
+  border-radius: 8px;
+  backface-visibility: hidden;
+  border: hidden;
+  transition-duration: 0.4s;
+  font-family: Arial, Helvetica, sans-serif;
+}
